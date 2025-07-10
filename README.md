@@ -1,7 +1,7 @@
 # proyecto_final
 
-Omar Andres Rodriguez Quicero
+Omar Andres Rodriguez Quicero,
 
-Juan Esteban Granada
+Juan Esteban Granada,
 
 Paola Andrea Ladino 
