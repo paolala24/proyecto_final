@@ -16,7 +16,7 @@ Este repositorio contiene los notebooks desarrollados para el proyecto final de 
 
 ---
 
-## 📌 Objetivos
+##  Objetivos
 
 - Implementar diferentes técnicas de modulación y procesamiento digital de señales.
 - Analizar las señales tanto en el dominio del tiempo como de la frecuencia.
@@ -25,7 +25,7 @@ Este repositorio contiene los notebooks desarrollados para el proyecto final de 
 
 ---
 
-## 🧠 Conceptos Clave
+##  Conceptos Clave
 
 El desarrollo del proyecto se basa en la comprensión e implementación práctica de los siguientes conceptos:
 
@@ -39,7 +39,7 @@ El desarrollo del proyecto se basa en la comprensión e implementación práctic
 
 ---
 
-## 🧪 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ### 1. Modulación AM-SSB (Portadora Suprimida)
 - Generación de la señal mensaje
@@ -60,5 +60,9 @@ El desarrollo del proyecto se basa en la comprensión e implementación práctic
 
 ---
 
-## 📂 Estructura del Repositorio
+Cada notebook incluye:
+
+- Visualizaciones detalladas de las señales en el tiempo y frecuencia.
+- Explicaciones comentadas en cada celda de código.
+- Gráficas de respuesta en frecuencia, espectros de modulación, señales I/Q y constelaciones.
 
