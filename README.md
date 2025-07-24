@@ -10,7 +10,7 @@ Paola Andrea Ladino
 
 Universidad nacional de colombia 
 
-# 🔊 Proyecto de Señales y Sistemas: Modulación y Procesamiento Digital
+#  Proyecto de Señales y Sistemas: Modulación y Procesamiento Digital
 
 Este repositorio contiene los notebooks desarrollados para el proyecto final de la asignatura **Señales y Sistemas**, en el cual se implementan técnicas modernas de modulación y análisis espectral utilizando Python.
 
