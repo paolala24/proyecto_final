@@ -66,3 +66,6 @@ Cada notebook incluye:
 - Explicaciones comentadas en cada celda de código.
 - Gráficas de respuesta en frecuencia, espectros de modulación, señales I/Q y constelaciones.
 
+- 
+<img width="1024" height="1536" alt="ChatGPT Image Jul 24, 2025, 04_41_37 PM" src="https://github.com/user-attachments/assets/c61c3ba7-35e0-4073-bae2-0416f356c018" />
+
